@@ -1,16 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 * {
-  margin: 0; padding: 0; box-sizing: border-box; font-family: inherit; color: inherit;
+  margin: 0; padding: 0; box-sizing: border-box; font-family: 'Oswald', sans-serif; color: inherit;
 }
 .app--component {
   min-height: 100vh;
   width: 100%;
-  background: lightseagreen;
   padding: 1rem 2rem; 
+  background: lightseagreen;
   background-image: url('http://jonvilma.com/images/space-9.jpg');
   background-repeat: repeat-y;
-
   color: #222;
-  font-family: Arial, Helvetica, sans-serif;
 }
 .app--component H3 {
   margin-bottom: .6rem;

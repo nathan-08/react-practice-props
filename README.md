@@ -9,3 +9,10 @@ In this project we will practice the following things:
 * Making deep copies of objects and arrays, to avoid mutating state directly
 * Using different `event handlers` to allow for user interaction with the website
 * Using the `findIndex` array method, to remove an object from an array based on a unique `id` property
+* Use a single `handleChange` method for multiple inputs
+
+## Instructions: 
+
+* Fork and Clone this repo. 
+* Run `npm install` from the root of the project.
+* Don't forget to have fun. 
