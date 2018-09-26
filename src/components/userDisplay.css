@@ -1,0 +1,20 @@
+.user-display--component {
+    border: 1px solid rgba(0,0,0,.4);
+    padding: 1rem;
+    color: #222;
+    background: floralwhite;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,.4);
+    font-size: .8rem;
+    overflow: auto;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.user-display--component img {
+    height: 60px;
+}
+.user-display--component div {
+    text-align: center;
+    float: left;
+}
